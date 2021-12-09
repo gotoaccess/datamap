@@ -1,0 +1,580 @@
+{ "response": { "uri":"\/api\/michael.giorgi@ymail.com\/Zoho%20Creator%20Analytics\/Revenue1", "action":"EXPORT", "result": { "column_order":["Account Type Report","COA_Report","COAS_Report","Total Reveneue","Cost of Goods Sold","Expense","Business","Organization Name"], "rows":[ ["Revenue","Royalty\/IP","Income (Passive)","60","0","0","3450243000009857026","JMPowers Limited, LLC"], ["Revenue","3450243000009947013","3450243000009954384","2182.38","0","0","3450243000009608333","Phephe Rose, LLC"], ["Revenue","Uncategorized Money In","","32379.98","0","0","3450243000009401002","Smack Sound LLC"], ["Revenue","3450243000009947013","3450243000009954384","5150","0","0","3450243000010033012","Safe Harbor Bookkeeping, LLC"], ["Revenue","Uncategorized Money In","","8696.039999999999","0","0","3450243000009960288","Devin Sizemore Consulting, LLC"], ["Revenue","Service Sale","Income (Ordinary)","970","0","0","3450243000009857026","JMPowers Limited, LLC"], ["Revenue","","","250","0","0","3450243000010033012","Safe Harbor Bookkeeping, LLC"], ["Revenue","Service Contract","Income (Ordinary)","29150","0","0","3450243000009858277","McKinley LLC"], ["Revenue","Service Contract","Income (Ordinary)","180005.43000000002","0","0","3450243000009857026","JMPowers Limited, LLC"], ["Revenue","Uncategorized Money In","","400","0","0","3450243000009847330","Metallic Flame Studios, LLC, a series of Braiuca Enterprises, LLC"], ["Revenue","Uncategorized Money In","","500","0","0","3450243000009857026","JMPowers Limited, LLC"], ["Revenue","Royalty\/IP","Income (Passive)","328.73999999999995","0","0","3450243000009858014","Jane M Powers PLLC"], ["Revenue","Uncategorized Money In","","1589.2","0","0","3450243000009284093","Triffid Online Marketing, LLC"], ["Revenue","Uncategorized Money In","","511732.6","0","0","3450243000009215141","Whitewater Canyon Holdings, LLC"], ["Revenue","Uncategorized Money In","","2100","0","0","3450243000011799012","You Incorporated"], ["Revenue","Uncategorized Money In","","115434.65","0","0","3450243000009215179","JWH Investment Trust"], ["Revenue","3450243000009947013","3450243000009954384","1066.02","0","0","3450243000009401002","Smack Sound LLC"], ["Revenue","Service Sale","Income (Ordinary)","10000","0","0","3450243000012026018","Management Co, LLC"], ["Revenue","","","654.8199999999999","0","0","3450243000009960288","Devin Sizemore Consulting, LLC"], ["Revenue","Uncategorized Money In","","5097.53","0","0","3450243000009846015","Braiuca Enterprises, LLC"], ["Revenue","Uncategorized Money In","","9538.080000000002","0","0","3450243000010002405","Capitalist Academy, Inc. "], ["Revenue","","","265.59","0","0","3450243000010002405","Capitalist Academy, Inc. "], ["Revenue","3450243000009947013","3450243000009954384","327.29","0","0","3450243000009846015","Braiuca Enterprises, LLC"], ["Revenue","Distribution","Income (Passive)","4770.84","0","0","3450243000013134929","Howard Brothers Management, LLC"], ["Revenue","Product Sales","Income (Ordinary)","1500","0","0","3450243000009858014","Jane M Powers PLLC"], ["Revenue","","","1359.99","0","0","3450243000009608333","Phephe Rose, LLC"], ["Revenue","Uncategorized Deposit","Deposit","1000","0","0","3450243000009857026","JMPowers Limited, LLC"], ["Revenue","Uncategorized Money In","","14901.95","0","0","3450243000009927030","Life Guarding Legacies, PLLC"], ["Revenue","Uncategorized Money In","","873.8","0","0","3450243000009608333","Phephe Rose, LLC"], ["Revenue","Uncategorized Money In","","13307.45","0","0","3450243000009212080","J Howard Investments, LLC"], ["Revenue","Commission","Income (Ordinary)","334","0","0","3450243000012026018","Management Co, LLC"], ["Revenue","Uncategorized Money In","","22886","0","0","3450243000013097587","Real Estate Holding, LLC"], ["Revenue","3450243000009947013","3450243000009954384","873.3","0","0","3450243000009960288","Devin Sizemore Consulting, LLC"], ["Revenue","Uncategorized Money In","","6000","0","0","3450243000009758002","Transformational Styles"], ["Revenue","Uncategorized Money In","","2000","0","0","3450243000009757015","Condomania, LLC"], ["Revenue","3450243000009947013","3450243000009954384","1456.75","0","0","3450243000010002405","Capitalist Academy, Inc. "], ["Revenue","Uncategorized Money In","","10193","0","0","3450243000013024128","New Company!, LLC"], ["Revenue","3450243000009947013","3450243000009954384","100","0","0","3450243000009284093","Triffid Online Marketing, LLC"], ["Revenue","","","800","0","0","3450243000011799012","You Incorporated"], ["Revenue","Uncategorized Money In","","335324.87","0","0","3450243000013135567","2411 Eleventh, LLC"], ["Revenue","Rent\/Lease","Income (Rental)","5380","0","0","3450243000012026018","Management Co, LLC"], ["Revenue","Uncategorized Money In","","4100","0","0","3450243000010033012","Safe Harbor Bookkeeping, LLC"], ["Revenue","Uncategorized Money In","","140.86","0","0","3450243000009858014","Jane M Powers PLLC"] ] } } }
+
+{ "response": { "uri":"\/api\/michael.giorgi@ymail.com\/Zoho%20Creator%20Analytics\/Organization%20Details", "action":"EXPORT", "criteria":"Allowed Owners=\'michael.giorgi@ymail.com\'", "result": { "column_order":["ID","Allowed Owners","Organization Name"], "rows":[ ["3450243000008720002","michael.giorgi@ymail.com","Michael Giorgi, LLC"], ["3450243000009357075","michael.giorgi@ymail.com","Business 2, LLC"], ["3450243000010843256","michael.giorgi@ymail.com","New Test 3"], ["3450243000011143518","michael.giorgi@ymail.com","New Test 15"] ] } } }
+
+
+
+
+
+# result i.g
+
+Array
+(
+[Account Type Report] => Revenue
+[COA_Report] => Royalty/IP
+[COAS_Report] => Income (Passive)
+[Total Reveneue] => 60
+[Cost of Goods Sold] => 0
+[Expense] => 0
+[Business] => Array
+    (
+        [ID] => 3450243000008720002
+        [Allowed Owners] => michael.giorgi@ymail.com
+        [Organization Name] => Michael Giorgi, LLC
+    )
+
+[Organization Name] => JMPowers Limited, LLC
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [ID] => 3450243000008720002
+            [Allowed Owners] => michael.giorgi@ymail.com
+            [Organization Name] => Michael Giorgi, LLC
+        )
+
+    [1] => Array
+        (
+            [ID] => 3450243000009357075
+            [Allowed Owners] => michael.giorgi@ymail.com
+            [Organization Name] => Business 2, LLC
+        )
+
+    [2] => Array
+        (
+            [ID] => 3450243000010843256
+            [Allowed Owners] => michael.giorgi@ymail.com
+            [Organization Name] => New Test 3
+        )
+
+    [3] => Array
+        (
+            [ID] => 3450243000011143518
+            [Allowed Owners] => michael.giorgi@ymail.com
+            [Organization Name] => New Test 15
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Royalty/IP
+            [COAS_Report] => Income (Passive)
+            [Total Reveneue] => 60
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009857026
+            [Organization Name] => JMPowers Limited, LLC
+        )
+
+    [1] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => 3450243000009947013
+            [COAS_Report] => 3450243000009954384
+            [Total Reveneue] => 2182.38
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009608333
+            [Organization Name] => Phephe Rose, LLC
+        )
+
+    [2] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 32379.98
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009401002
+            [Organization Name] => Smack Sound LLC
+        )
+
+    [3] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => 3450243000009947013
+            [COAS_Report] => 3450243000009954384
+            [Total Reveneue] => 5150
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000010033012
+            [Organization Name] => Safe Harbor Bookkeeping, LLC
+        )
+
+    [4] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 8696.039999999999
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009960288
+            [Organization Name] => Devin Sizemore Consulting, LLC
+        )
+
+    [5] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Service Sale
+            [COAS_Report] => Income (Ordinary)
+            [Total Reveneue] => 970
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009857026
+            [Organization Name] => JMPowers Limited, LLC
+        )
+
+    [6] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => 
+            [COAS_Report] => 
+            [Total Reveneue] => 250
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000010033012
+            [Organization Name] => Safe Harbor Bookkeeping, LLC
+        )
+
+    [7] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Service Contract
+            [COAS_Report] => Income (Ordinary)
+            [Total Reveneue] => 29150
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009858277
+            [Organization Name] => McKinley LLC
+        )
+
+    [8] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Service Contract
+            [COAS_Report] => Income (Ordinary)
+            [Total Reveneue] => 180005.43000000002
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009857026
+            [Organization Name] => JMPowers Limited, LLC
+        )
+
+    [9] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 400
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009847330
+            [Organization Name] => Metallic Flame Studios, LLC, a series of Braiuca Enterprises, LLC
+        )
+
+    [10] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 500
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009857026
+            [Organization Name] => JMPowers Limited, LLC
+        )
+
+    [11] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Royalty/IP
+            [COAS_Report] => Income (Passive)
+            [Total Reveneue] => 328.73999999999995
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009858014
+            [Organization Name] => Jane M Powers PLLC
+        )
+
+    [12] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 1589.2
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009284093
+            [Organization Name] => Triffid Online Marketing, LLC
+        )
+
+    [13] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 511732.6
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009215141
+            [Organization Name] => Whitewater Canyon Holdings, LLC
+        )
+
+    [14] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 2100
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000011799012
+            [Organization Name] => You Incorporated
+        )
+
+    [15] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 115434.65
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009215179
+            [Organization Name] => JWH Investment Trust
+        )
+
+    [16] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => 3450243000009947013
+            [COAS_Report] => 3450243000009954384
+            [Total Reveneue] => 1066.02
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009401002
+            [Organization Name] => Smack Sound LLC
+        )
+
+    [17] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Service Sale
+            [COAS_Report] => Income (Ordinary)
+            [Total Reveneue] => 10000
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000012026018
+            [Organization Name] => Management Co, LLC
+        )
+
+    [18] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => 
+            [COAS_Report] => 
+            [Total Reveneue] => 654.8199999999999
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009960288
+            [Organization Name] => Devin Sizemore Consulting, LLC
+        )
+
+    [19] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 5097.53
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009846015
+            [Organization Name] => Braiuca Enterprises, LLC
+        )
+
+    [20] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 9538.080000000002
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000010002405
+            [Organization Name] => Capitalist Academy, Inc. 
+        )
+
+    [21] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => 
+            [COAS_Report] => 
+            [Total Reveneue] => 265.59
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000010002405
+            [Organization Name] => Capitalist Academy, Inc. 
+        )
+
+    [22] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => 3450243000009947013
+            [COAS_Report] => 3450243000009954384
+            [Total Reveneue] => 327.29
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009846015
+            [Organization Name] => Braiuca Enterprises, LLC
+        )
+
+    [23] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Distribution
+            [COAS_Report] => Income (Passive)
+            [Total Reveneue] => 4770.84
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000013134929
+            [Organization Name] => Howard Brothers Management, LLC
+        )
+
+    [24] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Product Sales
+            [COAS_Report] => Income (Ordinary)
+            [Total Reveneue] => 1500
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009858014
+            [Organization Name] => Jane M Powers PLLC
+        )
+
+    [25] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => 
+            [COAS_Report] => 
+            [Total Reveneue] => 1359.99
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009608333
+            [Organization Name] => Phephe Rose, LLC
+        )
+
+    [26] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Deposit
+            [COAS_Report] => Deposit
+            [Total Reveneue] => 1000
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009857026
+            [Organization Name] => JMPowers Limited, LLC
+        )
+
+    [27] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 14901.95
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009927030
+            [Organization Name] => Life Guarding Legacies, PLLC
+        )
+
+    [28] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 873.8
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009608333
+            [Organization Name] => Phephe Rose, LLC
+        )
+
+    [29] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 13307.45
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009212080
+            [Organization Name] => J Howard Investments, LLC
+        )
+
+    [30] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Commission
+            [COAS_Report] => Income (Ordinary)
+            [Total Reveneue] => 334
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000012026018
+            [Organization Name] => Management Co, LLC
+        )
+
+    [31] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 22886
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000013097587
+            [Organization Name] => Real Estate Holding, LLC
+        )
+
+    [32] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => 3450243000009947013
+            [COAS_Report] => 3450243000009954384
+            [Total Reveneue] => 873.3
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009960288
+            [Organization Name] => Devin Sizemore Consulting, LLC
+        )
+
+    [33] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 6000
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009758002
+            [Organization Name] => Transformational Styles
+        )
+
+    [34] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 2000
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009757015
+            [Organization Name] => Condomania, LLC
+        )
+
+    [35] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => 3450243000009947013
+            [COAS_Report] => 3450243000009954384
+            [Total Reveneue] => 1456.75
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000010002405
+            [Organization Name] => Capitalist Academy, Inc. 
+        )
+
+    [36] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 10193
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000013024128
+            [Organization Name] => New Company!, LLC
+        )
+
+    [37] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => 3450243000009947013
+            [COAS_Report] => 3450243000009954384
+            [Total Reveneue] => 100
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009284093
+            [Organization Name] => Triffid Online Marketing, LLC
+        )
+
+    [38] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => 
+            [COAS_Report] => 
+            [Total Reveneue] => 800
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000011799012
+            [Organization Name] => You Incorporated
+        )
+
+    [39] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 335324.87
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000013135567
+            [Organization Name] => 2411 Eleventh, LLC
+        )
+
+    [40] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Rent/Lease
+            [COAS_Report] => Income (Rental)
+            [Total Reveneue] => 5380
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000012026018
+            [Organization Name] => Management Co, LLC
+        )
+
+    [41] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 4100
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000010033012
+            [Organization Name] => Safe Harbor Bookkeeping, LLC
+        )
+
+    [42] => Array
+        (
+            [Account Type Report] => Revenue
+            [COA_Report] => Uncategorized Money In
+            [COAS_Report] => 
+            [Total Reveneue] => 140.86
+            [Cost of Goods Sold] => 0
+            [Expense] => 0
+            [Business] => 3450243000009858014
+            [Organization Name] => Jane M Powers PLLC
+        )
+
+)
